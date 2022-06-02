@@ -18,7 +18,7 @@ It is designed to work alongside my other mods [ChooseStartingGear](https://gith
 ## Installation:
 1. Download ```ChooseStartingLocation.dll``` from [releases](https://github.com/GruffCassquatch/ChooseStartingLocation/releases)
 2. Drop ```ChooseStartingLocation.dll``` into your Mods folder
-3. If you are updating from an older version, delete the ```ChooseStaringLocation.json``` from your Mods folder as old json's can cause errors if the mod's Settings have been changed
+3. If you are updating from an older version, delete the ```ChooseStartingLocation.json``` from your Mods folder as old json's can cause errors if the mod's Settings have been changed
 
 ## Uninstallation:
 Delete ```ChooseStartingLocation.dll``` and ```ChooseStartingLocation.json``` files from your Mods folder
