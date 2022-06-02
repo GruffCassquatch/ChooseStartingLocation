@@ -11,7 +11,7 @@ namespace ChooseStartingLocation
         [HarmonyPatch(typeof(GameManager), "LaunchSandbox")]
         internal class OverridePlayerSpawn
         {
-            private static bool Prefix(PlayerManager __instance)
+            private static bool Prefix()
             {
                 if (Settings.settings.modFunction == ModFunction.Disabled) return true;
                 ExperienceModeType xpMode = ExperienceModeManager.GetCurrentExperienceModeType();
