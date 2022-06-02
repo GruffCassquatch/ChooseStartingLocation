@@ -53,6 +53,8 @@ Delete ```ChooseStartingLocation.dll``` and ```ChooseStartingLocation.json``` fi
 ## Feedback, Questions & Troubleshooting
 * I am active on [The Long Dark Modding](https://discord.gg/QvFE7VV4WZ) Discord server
 	* **General questions and feedback:** post in my channel #cass
+		* Please note that many indoor locations CANNOT be added as they do not have unique scene names. It is too much work to add and maintain these locations!
+		* I am open to adding more locations (within reason), contact me on Discord if you have a specific location you really want 
 	* **Troubleshooting:** 
 		* Post in my channel #cass or in #troubleshooting 
 		* Or create an issue here on GitHub if you're not on Discord
