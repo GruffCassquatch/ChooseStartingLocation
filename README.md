@@ -37,7 +37,7 @@ Delete ```ChooseStartingLocation.dll``` and ```ChooseStartingLocation.json``` fi
 		* The screenshot should be saved to your Desktop (by default), open it
 		* The 3rd line with 3 numbers in brackets are the coordinates; enter them in the same order as they appear (X, Y, Z)
 		* The 4th line with 2 numbers in brackets is the rotation (the direction the player is facing); enter these as they appear (X, Y)
-		* You can reach interesting locations using the ```fly``` console command [DeveloperConsole](https://github.com/FINDarkside/TLD-Developer-Console), press ```space bar``` to land
+		* You can reach interesting locations using the ```fly``` console command with [DeveloperConsole](https://github.com/FINDarkside/TLD-Developer-Console), press ```space bar``` to land
 	* ```Location List:``` You can choose from a list of Regions and Locations, or select Random
     * Select a starting Region
     * Select a starting Location from the list
