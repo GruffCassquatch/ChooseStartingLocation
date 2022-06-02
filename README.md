@@ -39,10 +39,10 @@ Delete ```ChooseStartingLocation.dll``` and ```ChooseStartingLocation.json``` fi
 		* The 4th line with 2 numbers in brackets is the rotation (the direction the player is facing); enter these as they appear (X, Y)
 		* You can reach interesting locations using the ```fly``` console command with [DeveloperConsole](https://github.com/FINDarkside/TLD-Developer-Console), press ```space bar``` to land
 	* ```Location List:``` You can choose from a list of Regions and Locations, or select Random
-    * Select a starting Region
-    * Select a starting Location from the list
+		* Select a starting Region
+		* Select a starting Location from the list
 		* Selecting Random for Region will select a random location from all locations included in the mod
-    * Selecting a specific Region and then selecting Random for Location will select a random location from the list of all locations in that Region
+		* Selecting a specific Region and then selecting Random for Location will select a random location from the list of all locations in that Region
 5. Click ```CONFIRM``` to apply your changes or ```BACK``` to exit without applying changes
 
 
