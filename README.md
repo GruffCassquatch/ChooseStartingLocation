@@ -44,6 +44,10 @@ Delete ```ChooseStartingLocation.dll``` and ```ChooseStartingLocation.json``` fi
 		* Selecting Random for Region will select a random location from all locations included in the mod
 		* Selecting a specific Region and then selecting Random for Location will select a random location from the list of all locations in that Region
 5. Click ```CONFIRM``` to apply your changes or ```BACK``` to exit without applying changes
+6. Start a new Survival Mode game as usual
+	* It does not matter what you select when you get to the Region selection screen. If the mod is enabled, it will override any choice you make here
+	* All other steps remain unchanged
+
 
 
 ## Feedback, Questions & Troubleshooting
