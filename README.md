@@ -34,8 +34,8 @@ Delete ```ChooseStartingLocation.dll``` and ```ChooseStartingLocation.json``` fi
 		* Enter you Coordinates and optionally, your Rotation
 		* To easily find coordinates for a location, go to the spot you like and use the debug screenshot key (F8 by default)
 		* The screenshot should be saved to your Desktop by default, open it
-		* The 3rd line with 3 numbers in brackets are the coordinates; enter them in the same order as they appear (X, Y, Z) e.g. (495.1, 66.4, 502.9)
-		* The 4th line with 2 numbers in brackets is the rotation (where the player is facing); enter these as they appear (X, Y) e.g. (130.8, -2.0)
+		* The 3rd line with 3 numbers in brackets are the coordinates; enter them in the same order as they appear (X, Y, Z)
+		* The 4th line with 2 numbers in brackets is the rotation (where the player is facing); enter these as they appear (X, Y)
 		* You can reach interesting locations using the ```fly``` console command [DeveloperConsole](https://github.com/FINDarkside/TLD-Developer-Console)
 	* ```Location List:``` You can choose from a list of Regions and Locations, or select Random
     * Select a starting Region
