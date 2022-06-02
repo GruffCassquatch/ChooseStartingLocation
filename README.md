@@ -32,7 +32,7 @@ Delete ```ChooseStartingLocation.dll``` and ```ChooseStartingLocation.json``` fi
 	* ```Custom Coordinates:``` You can enter in your own custom starting coordinates
 		* Choose your starting Region
 		* Enter you Coordinates and optionally, your Rotation
-		* It is easier to move the slider to the rough number you want with the mouse, then use the left/right arrow keys on your keyboard to the exact position
+		* It is easier to move the slider to the rough number you want with the mouse, then use the left/right arrow keys on your keyboard to the exact position. You can also manually enter the numbers in the json file and then launch the game.
 		* To easily find coordinates for a location, go to the spot you like and use the debug screenshot key ```F8``` (by default)
 		* The screenshot should be saved to your Desktop (by default), open it
 		* The 3rd line with 3 numbers in brackets are the coordinates; enter them in the same order as they appear (X, Y, Z)
