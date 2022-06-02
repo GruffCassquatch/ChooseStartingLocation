@@ -56,3 +56,4 @@ Delete ```ChooseStartingLocation.dll``` and ```ChooseStartingLocation.json``` fi
 	* **Troubleshooting:** 
 		* Post in my channel #cass or in #troubleshooting 
 		* Or create an issue here on GitHub if you're not on Discord
+		* While the mod is still in the testing phase, it will leave messages in your MelonLoader window. These are to help troubleshoot if something does not work as expected. You should not be wooried about any messages anless they are RED.
