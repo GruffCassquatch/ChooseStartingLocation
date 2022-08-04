@@ -55,7 +55,7 @@ namespace ChooseStartingLocation
 
                     GameManager.LoadSceneWithLoadingScreen(Implementation.startLocation.scene);
 
-                    MelonLogger.Msg("LAUNCH SANDBOX PREFIX: NEW START SCENE: " + Implementation.startLocation.scene);
+                    //MelonLogger.Msg("LAUNCH SANDBOX PREFIX: NEW START SCENE: " + Implementation.startLocation.scene);
                     return false;
                 }
                 return true;
@@ -72,11 +72,11 @@ namespace ChooseStartingLocation
 
                 if (!Implementation.startLocation.teleport)
                 {
-                    MelonLogger.Msg("Teleport flag FALSE for " + Implementation.startLocation.name);
+                    //MelonLogger.Msg("Teleport flag FALSE for " + Implementation.startLocation.name);
                     return;
                 }
 
-                MelonLogger.Msg("TELEPORTING TO: " + Implementation.startLocation.name);
+                //MelonLogger.Msg("TELEPORTING TO: " + Implementation.startLocation.name);
 
                 if (Implementation.startLocation.position == Vector3.zero)
                 {
