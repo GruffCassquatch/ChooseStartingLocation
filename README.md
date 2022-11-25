@@ -1,5 +1,5 @@
 # Choose Starting Location
-FOR GAME VERSION 2.00 / 2.02 (**PRE TALES FROM THE FAR TERRITORY**)
+FOR GAME VERSION 2.00 / 2.02 (**PRE TALES FROM THE FAR TERRITORY**)    
 Allows you to choose your starting location when starting a new Sandbox game. 
 The idea is to add more variety and to allow better roleplaying/storytelling options. 
 It is designed to work alongside my other mods [ChooseStartingGear](https://github.com/GruffCassquatch/ChooseStartingGear) and [ChooseStartingCondition](https://github.com/GruffCassquatch/ChooseStartingConditions) for a completely custom start.       
